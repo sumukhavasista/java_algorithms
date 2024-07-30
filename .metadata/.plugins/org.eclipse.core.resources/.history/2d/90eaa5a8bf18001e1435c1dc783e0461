@@ -1,0 +1,31 @@
+package selectionSort;
+import java.util.*;
+import java.io.*;
+public class P1 {
+	static int[] a;
+	static int n;
+	
+	static void selectionSort(int a[]) {
+		int len=a.length;
+		for (int i=0; i<len-1;i++) {
+			int minIndex=i;
+			for(int j=i+1;j<len;j++) {
+				if (a[j]<a[minIndex]) {
+					minIndex=j;
+				}
+			}
+			int temp=a[minIndex];
+			a[minIndex]=a[i];
+			a[i]=temp;
+		}
+	}
+	public static void main(String[] args) throws IOException {
+		int i;
+		long st, et, et1, et2;
+		Scanner read=new Scanner(System.in);
+		Random random=new Random();
+		PrintWriter out=new PrintWriter(new File("Random.txt"));
+		System.out.println("Enter the elements ");
+	}
+
+}

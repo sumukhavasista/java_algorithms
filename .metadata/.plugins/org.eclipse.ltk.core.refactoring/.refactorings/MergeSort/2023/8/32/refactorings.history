@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mergeSort.P3&apos; to &apos;mergeSort&apos;&#x0D;&#x0A;- Original project: &apos;MergeSort&apos;&#x0D;&#x0A;- Original element: &apos;mergeSort.P3&apos;&#x0D;&#x0A;- Renamed element: &apos;mergeSort.mergeSort&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;P3&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mergeSort{P3.java[P3" matchStrategy="1" name="mergeSort" qualified="false" references="true" similarDeclarations="false" stamp="1691437619877" textual="false" version="1.0"/>
+</session>

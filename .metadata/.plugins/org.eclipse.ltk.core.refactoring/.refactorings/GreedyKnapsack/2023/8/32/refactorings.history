@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;greedyKnapsack.P4&apos; to &apos;knapsackMethod&apos;&#x0D;&#x0A;- Original project: &apos;GreedyKnapsack&apos;&#x0D;&#x0A;- Original element: &apos;greedyKnapsack.P4&apos;&#x0D;&#x0A;- Renamed element: &apos;greedyKnapsack.knapsackMethod&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;P4&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;greedyKnapsack{P4.java[P4" matchStrategy="1" name="knapsackMethod" qualified="false" references="true" similarDeclarations="false" stamp="1691437646203" textual="false" version="1.0"/>
+</session>
